@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://hupozy.github.io.git/"/>
-  <updated>2019-06-15T01:49:48.585Z</updated>
+  <updated>2019-06-15T07:36:02.750Z</updated>
   <id>https://hupozy.github.io.git/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://hupozy.github.io.git/2019/06/15/hello-world/"/>
-    <id>https://hupozy.github.io.git/2019/06/15/hello-world/</id>
-    <published>2019-06-15T01:49:48.585Z</published>
-    <updated>2019-06-15T01:49:48.585Z</updated>
+    <title>知识焦虑</title>
+    <link href="https://hupozy.github.io.git/2019/06/15/%E7%9F%A5%E8%AF%86%E7%84%A6%E8%99%91/"/>
+    <id>https://hupozy.github.io.git/2019/06/15/知识焦虑/</id>
+    <published>2019-06-15T05:53:07.000Z</published>
+    <updated>2019-06-15T07:36:02.750Z</updated>
     
     <summary type="html">
     
@@ -29,12 +29,19 @@
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;hr&gt;
+&lt;p&gt;这个博客的第一篇文章，想写点儿什么，又不知从何写起。呆呆地坐在电脑面前，markdown里的文字写了又改、改了又删、删了又写，反反复复······想说的话有很多，但发现如果让自己写出来，真的是难以下笔。因为心里的种种滋味，切身的种种体会，感觉是那么地强烈，可一写到
         
       
     
     </summary>
     
+      <category term="生活" scheme="https://hupozy.github.io.git/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="心情" scheme="https://hupozy.github.io.git/tags/%E5%BF%83%E6%83%85/"/>
+    
+      <category term="反思" scheme="https://hupozy.github.io.git/tags/%E5%8F%8D%E6%80%9D/"/>
     
   </entry>
   
