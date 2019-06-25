@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://hupozy.github.io.git/"/>
-  <updated>2019-06-15T07:36:02.750Z</updated>
+  <updated>2019-06-25T12:59:00.299Z</updated>
   <id>https://hupozy.github.io.git/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>写在数模竞赛之后</title>
+    <link href="https://hupozy.github.io.git/2019/06/25/%E5%86%99%E5%9C%A8%E6%95%B0%E6%A8%A1%E7%AB%9E%E8%B5%9B%E4%B9%8B%E5%90%8E/"/>
+    <id>https://hupozy.github.io.git/2019/06/25/写在数模竞赛之后/</id>
+    <published>2019-06-25T11:54:15.000Z</published>
+    <updated>2019-06-25T12:59:00.299Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;hr&gt;
+&lt;p&gt;连续肝了三天，最后一晚一眼没合，第一次数模竞赛就在紧张和遗憾中落幕了。&lt;/p&gt;
+&lt;p&gt;说紧张是指时间紧张，从建立模型到撰写论文，我们组一直马不停蹄，不是思考问题就是在思考问题的路上。可就算这样，最后论文写完都没有时间再检查一遍有没有错别字，语句是否通顺······
+        
+      
+    
+    </summary>
+    
+      <category term="生活" scheme="https://hupozy.github.io.git/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="反思" scheme="https://hupozy.github.io.git/tags/%E5%8F%8D%E6%80%9D/"/>
+    
+      <category term="经历" scheme="https://hupozy.github.io.git/tags/%E7%BB%8F%E5%8E%86/"/>
+    
+  </entry>
   
   <entry>
     <title>知识焦虑</title>
@@ -39,9 +69,9 @@
       <category term="生活" scheme="https://hupozy.github.io.git/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-      <category term="心情" scheme="https://hupozy.github.io.git/tags/%E5%BF%83%E6%83%85/"/>
-    
       <category term="反思" scheme="https://hupozy.github.io.git/tags/%E5%8F%8D%E6%80%9D/"/>
+    
+      <category term="心情" scheme="https://hupozy.github.io.git/tags/%E5%BF%83%E6%83%85/"/>
     
   </entry>
   
